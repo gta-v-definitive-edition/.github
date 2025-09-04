@@ -20,7 +20,7 @@ This edition is ideal for fans who want **smoother performance, next-gen visuals
 ## 📸 Overview
 A quick look at key parts in action:
 
-![gtav-definitive-visuals](https://github.com/user-attachments/assets/1401d52f-917e-468d-bbb9-8a330c1063a0)
+![gtav-definitive-visuals](https://github.com/user-attachments/assets/5aac52a0-d93c-4bfd-b194-8a8f5699a9eb)
 
 ---
 
